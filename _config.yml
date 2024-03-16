@@ -64,5 +64,3 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-host: 0.0.0.0
-port: 4002
